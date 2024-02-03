@@ -37,13 +37,13 @@ input:checked + label {
 
 .container-item-cardapio {
   display: flex;
-  width: 35rem;
+  width: 30rem;
   padding: 1rem;
   justify-content: space-evenly;
   border-radius: 10px;
   box-shadow: -2px 2px 20px #002;
   & > img {
-    height: 11rem;
+    height: 5rem;
   }
   & > div {
     display: flex;
@@ -63,7 +63,7 @@ input:checked + label {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 31rem;
+  gap: 5rem;
   justify-content: space-between;
   margin-top: 50px;
 }
