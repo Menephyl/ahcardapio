@@ -5,9 +5,9 @@
 
 <h3>Tecnologias Utilizadas</h3>
 <p> React (com Vite) no frontend</p>
-1.Node.js no backend - [x] 
-Funcionalidades Principais - [x] 
-Exibição de itens do menu de maneira organizada e  - [x] 
-Interação fácil para adicionar/remover itens ao carrinho - [x] 
+1.Node.js no backend
+Funcionalidades Principais
+Exibição de itens do menu de maneira organizada e  
+Interação fácil para adicionar/remover itens ao carrinho
 Backend simples para fornecer dados ao frontend.- [x] 
-Responsividade - [ ]
+Responsividade
