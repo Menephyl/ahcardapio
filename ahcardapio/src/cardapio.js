@@ -37,8 +37,7 @@ const fishChips = {
   nome: 'Fish and Chips',
   preco: 'R$ 79,90',
   imagem: fishChipsImg,
-  descricao:
-    'Iscas de Peixe Empanada na Farinha Panko e Flocos de Milho e Batata Frita Palito',
+  descricao:    'Iscas de Peixe Empanada na Farinha Panko e Flocos de Milho e Batata Frita Palito',
 };
 const risotoCamaraoTrufado = {
   nome: 'Risoto de Camarão Trufado',
