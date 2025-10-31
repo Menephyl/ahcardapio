@@ -1,14 +1,39 @@
 <h1>Cardápio Digital de Restaurante com React (Vite) e Node.js</h1>
 
-<h2>Descrição</h2>
+# 🍽️ Ah! Cardápio
 
- <p>Este é o terceiro projeto do meu desafio #100DaysOfCode, onde desenvolvi um cardápio digital de restaurante utilizando React (Vite) no frontend e Node.js no backend. O projeto visa criar uma experiência interativa para os clientes #explorarem os itens do menu de maneira eficiente e agradável.´</p>
+Um **Cardápio Digital de Restaurante** desenvolvido com **React (Vite)** no frontend e **Node.js** no backend.  
+Este projeto faz parte do desafio **#100DaysOfCode** e tem como objetivo oferecer uma experiência interativa, moderna e responsiva para clientes explorarem os itens de um menu de forma prática e agradável.
 
-<h3>Tecnologias Utilizadas</h3>
-<p> React (com Vite) no frontend</p>
-1.#Node.js no backend
-Funcionalidades Principais
-Exibição de itens do menu de maneira organizada e  
-Interação fácil para adicionar/remover itens ao carrinho
-Backend simples para fornecer dados ao frontend.
-Responsividade
+---
+
+## 🚀 Demonstração
+<img width="2800" height="2100" alt="AHCARDAPIO" src="https://github.com/user-attachments/assets/69fadeec-af9e-4bce-94e0-e0b5d493be46" />
+
+🔗 [Acesse o projeto online](https://ahcardapio.vercel.app)
+
+---
+
+## 📖 Funcionalidades
+
+- ✅ Exibição organizada dos itens do menu  
+- ✅ Adição e remoção de itens no carrinho  
+- ✅ Backend simples para fornecer dados ao frontend  
+- ✅ Layout **responsivo** para dispositivos móveis e desktops  
+- ✅ Interface intuitiva e amigável  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Frontend
+- [React](https://react.dev/) com [Vite](https://vitejs.dev/) ⚡
+- CSS para estilização
+
+### Backend
+- [Node.js](https://nodejs.org/)
+
+---
+
+## 📂 Estrutura do Projeto
+
