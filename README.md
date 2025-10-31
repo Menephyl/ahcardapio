@@ -36,4 +36,19 @@ Este projeto faz parte do desafio **#100DaysOfCode** e tem como objetivo oferece
 ---
 
 ## 📂 Estrutura do Projeto
+ahcardapio/ ├── ahcardapio/ # Código principal do projeto ├── README.md # Documentação
 
+Código
+
+---
+
+## ⚙️ Como Executar Localmente
+
+### Pré-requisitos
+- [Node.js](https://nodejs.org/) instalado
+- [Git](https://git-scm.com/) instalado
+
+### Passos
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Menephyl/ahcardapio.git
